@@ -1,0 +1,14 @@
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.csproj.AssemblyReference.cache
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.AssemblyInfoInputs.cache
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.AssemblyInfo.cs
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.csproj.CoreCompileInputs.cache
+C:\Users\ROHAN\source\repos\21MayTest\bin\Debug\netcoreapp3.1\21MayTest.exe
+C:\Users\ROHAN\source\repos\21MayTest\bin\Debug\netcoreapp3.1\21MayTest.deps.json
+C:\Users\ROHAN\source\repos\21MayTest\bin\Debug\netcoreapp3.1\21MayTest.runtimeconfig.json
+C:\Users\ROHAN\source\repos\21MayTest\bin\Debug\netcoreapp3.1\21MayTest.runtimeconfig.dev.json
+C:\Users\ROHAN\source\repos\21MayTest\bin\Debug\netcoreapp3.1\21MayTest.dll
+C:\Users\ROHAN\source\repos\21MayTest\bin\Debug\netcoreapp3.1\21MayTest.pdb
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.dll
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.pdb
+C:\Users\ROHAN\source\repos\21MayTest\obj\Debug\netcoreapp3.1\21MayTest.genruntimeconfig.cache
