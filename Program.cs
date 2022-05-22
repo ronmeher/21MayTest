@@ -41,6 +41,14 @@ namespace _21MayTest
             //l.Add(56);
             //l.Display();
 
+            Console.WriteLine("Regular Expression Program for Phone Number and Email ID Validation!");
+            RegEx p5 = new RegEx();
+            Console.WriteLine("Enter your Phone Number:");
+            Console.WriteLine(p5.validatePhone(Console.ReadLine()));
+            Console.WriteLine("Enter your Email ID:");
+            Console.WriteLine(p5.validateEmail(Console.ReadLine()));
+
+
 
         }
     }
